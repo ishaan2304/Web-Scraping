@@ -13,7 +13,7 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/.git
+   git clone https://github.com/yourusername/Web-Scraping-using-Beautiful-soup.git
    ```
 
 2. Navigate to the project directory:
