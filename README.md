@@ -39,6 +39,3 @@ The scraped data will be saved into a file named `books.csv`.
 
 Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
