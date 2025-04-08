@@ -26,12 +26,6 @@ To run this project, you need to have Python installed on your machine. Follow t
    pip install -r requirements.txt
    ```
 
-## Usage
-
-To start the scraper, run the following command in your terminal:
-```
-python bank.py
-```
 
 The scraped data will be saved into a file named `books.csv`.
 
