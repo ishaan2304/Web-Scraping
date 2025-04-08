@@ -28,8 +28,3 @@ To run this project, you need to have Python installed on your machine. Follow t
 
 
 The scraped data will be saved into a file named `books.csv`.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or new features, please open an issue or submit a pull request.
-
