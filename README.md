@@ -1,5 +1,4 @@
 # Book Scraper
-
 This project is a web scraper for the website "Books to Scrape". It fetches the book details such as title, price, and rating, and saves them into a CSV file.
 
 ## Features
